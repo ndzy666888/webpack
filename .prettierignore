@@ -1,0 +1,8 @@
+.husky
+node_modules
+dist
+.babelrc
+.gitignore
+.prettierignore
+.prettierrc
+tsconfig.json
